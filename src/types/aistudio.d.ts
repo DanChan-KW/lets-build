@@ -1,0 +1,13 @@
+// src/types/aistudio.d.ts
+
+export {}
+
+declare global {
+  interface Window {
+    aistudio?: {
+      hasSelectedApiKey: () => Promise<boolean>
+      openSelectKey: () => Promise<void>
+    }
+  }
+}
+

@@ -1,0 +1,8 @@
+{
+  "name": "30/01/2026 Let's Build (HK) - Six Bricks",
+  "description": "An interactive promotional platform for Let's Build (Hong Kong) Company Limited, focusing on Six Bricks educational methodology with AI-powered learning tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
